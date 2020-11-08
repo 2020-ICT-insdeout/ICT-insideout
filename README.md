@@ -1,5 +1,8 @@
 # ICT-insideout
+base code from https://github.com/md1284/speech-emotion-recognition, https://github.com/wiseman/py-webrtcvad
 
+
+# 발표자료
 ![인사이드아웃팀의_이모지스피커_본선-01](https://user-images.githubusercontent.com/59991281/98457215-898fa380-21c8-11eb-9121-e3043298c205.png)
 ![인사이드아웃팀의_이모지스피커_본선-02](https://user-images.githubusercontent.com/59991281/98457222-8c8a9400-21c8-11eb-8546-78c0fed61978.png)
 ![인사이드아웃팀의_이모지스피커_본선-03](https://user-images.githubusercontent.com/59991281/98457225-8e545780-21c8-11eb-90b7-b16a8b38c50f.png)
